@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     
 ### Socials
 <p align="center">
-<a href="https://discord.com/users/takuya13666" target="_blank" rel="noreferrer">
+                    <a href="https://discord.com/users/takuya13666" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
@@ -39,7 +39,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>
+                    
+### Badges<b>My GitHub Stats
+</b><a
                       href="http://www.github.com/skr1ms"><img src="https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="skr1ms's GitHub stats" /></a><a
                       href="http://www.github.com/skr1ms"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=skr1ms&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a><a
