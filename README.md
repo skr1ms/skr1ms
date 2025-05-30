@@ -1,8 +1,8 @@
-<span style="font-size: 60px; font-weight: bold;">Hi 👋, I'm skr1ms</span>
+<div style="font-size: 60px; font-weight: bold;">Hi 👋, I'm skr1ms</div>
 
 ---
 
-<h2 style="font-size: 5em; border-bottom: none !important; padding-bottom: 0 !important;">Stack:</h2>
+<div style="font-size: 50px; font-weight: bold;">Stack:</div>
 
 ---
 
@@ -13,7 +13,7 @@
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode"  /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode" /></a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 style="font-size: 5em; border-bottom: none !important; padding-bottom: 0 !important;">Socials:</h2>
+<div style="font-size: 50px; font-weight: bold;">Socials:</div>
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 style="font-size: 5em; border-bottom: none !important; padding-bottom: 0 !important;">GitHub Stats:</h2>
+<div style="font-size: 50px; font-weight: bold;">GitHub Stats:</div>
 
 ---
 
