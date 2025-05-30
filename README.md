@@ -1,4 +1,4 @@
-<h1 style="font-size: 5em; margin: 0; padding: 0; border: none !important;">Hi 👋, I'm skr1ms</h1>
+<div style="font-size: 5em; font-weight: bold; padding-bottom: 0;">Hi 👋, I'm skr1ms</div>
 
 ---
 
