@@ -1,8 +1,8 @@
-<h1 style="font-size: 2.5em;">Hi 👋, I'm skr1ms</h1>
+<h1 style="font-size: 5em;">Hi 👋, I'm skr1ms</h1>
 
 ---
 
-<h2 style="font-size: 2.5em;">Stack:</h2>
+<h2 style="font-size: 5em;">Stack:</h2>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 style="font-size: 2.5em;">Socials:</h2>
+<h2 style="font-size: 5em;">Socials:</h2>
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 style="font-size: 2.5em;">GitHub Stats:</h2>
+<h2 style="font-size: 5em;">GitHub Stats:</h2>
 
 ---
 
