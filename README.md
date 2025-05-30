@@ -1,12 +1,11 @@
-<div align="center">
-  <strong style="font-size: 32px;">Hi 👋, I'm skr1ms</strong>
-</div>
+<h1>Hi 👋, I'm skr1ms</h1>
 
----
 
-<div style="font-size: 50px; font-weight: bold;">Stack:</div>
+###
 
----
+<h1>Stack:</h1>
+
+###
 
 <div align="center">
 
@@ -27,11 +26,11 @@
 
 </div>
 
----
+###
 
-<div style="font-size: 50px; font-weight: bold;">Socials:</div>
+<h1>Socials:</h1>
 
----
+###
 
 <div align="center">
 
@@ -61,21 +60,21 @@
 
 </div>
 
----
+###
 
-<div style="font-size: 50px; font-weight: bold;">GitHub Stats:</div>
+<h1>GitHub Stats:</h1>
 
----
+###
 
 <div align="center">
 
 <a href="http://www.github.com/skr1ms"><img src="https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="skr1ms's GitHub stats" /></a>
 
----
+###
 
 <a href="http://www.github.com/skr1ms"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skr1ms&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
----
+###
 
 <a href="https://github.com/skr1ms"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skr1ms&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
