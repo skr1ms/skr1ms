@@ -1,4 +1,6 @@
-# Hi 👋, I'm skr1ms
+Hi 👋, I'm skr1ms
+
+---
 
 # Stack:
 
@@ -23,7 +25,9 @@
 
 ---
 
-# Socials:
+Socials:
+
+---
 
 <div align="center">
 
@@ -55,7 +59,9 @@
 
 ---
 
-# GitHub Stats:
+GitHub Stats:
+
+---
 
 <div align="center">
 
