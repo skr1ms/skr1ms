@@ -1,7 +1,5 @@
 # Hi 👋, I'm skr1ms
 
----
-
 # Stack:
 
 <div align="center">
