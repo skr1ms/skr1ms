@@ -1,8 +1,10 @@
-Hi 👋, I'm skr1ms
+<h1 style="font-size: 2.5em;">Hi 👋, I'm skr1ms</h1>
 
 ---
 
-# Stack:
+<h2 style="font-size: 2.5em;">Stack:</h2>
+
+---
 
 <div align="center">
 
@@ -25,7 +27,7 @@ Hi 👋, I'm skr1ms
 
 ---
 
-Socials:
+<h2 style="font-size: 2.5em;">Socials:</h2>
 
 ---
 
@@ -59,7 +61,7 @@ Socials:
 
 ---
 
-GitHub Stats:
+<h2 style="font-size: 2.5em;">GitHub Stats:</h2>
 
 ---
 
