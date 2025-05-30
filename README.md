@@ -1,9 +1,6 @@
 # About Me
 
 <h1 align="center">Hi 👋, I'm skr1ms</h1>
-
-###
-
   
 # Stack: 
 
