@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm skr1ms</h1>
+<div align="center">
+  <strong style="font-size: 32px;">Hi 👋, I'm skr1ms</strong>
+</div>
 
 ---
 
