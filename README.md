@@ -1,4 +1,4 @@
-<div style="font-size: 60px; font-weight: bold; padding-bottom: 0;">Hi 👋, I'm skr1ms</div>
+<span style="font-size: 60px; font-weight: bold;">Hi 👋, I'm skr1ms</span>
 
 ---
 
