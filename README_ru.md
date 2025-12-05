@@ -91,10 +91,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&cache_seconds=7200" alt="GitHub Stats" width="495" />
+<img src="https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=skr1ms&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="GitHub Streak" width="495" />
+<img src="https://streak-stats.demolab.com/?user=skr1ms&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skr1ms&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400&layout=compact" alt="Top Languages" width="495" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skr1ms&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400&layout=compact" alt="Top Languages" />
 
 </div>
