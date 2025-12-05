@@ -86,8 +86,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=skr1ms&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skr1ms&langs_count=8&title_color=ec4899&text_color=a855f7&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=skr1ms&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skr1ms&stroke=a855f7&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="GitHub Streak" />
 
 </div>
