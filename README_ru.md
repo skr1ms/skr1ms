@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## Технологический стек
 
 <div align="center">
@@ -46,8 +44,6 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)![MinIO]()
 
 </div>
-
----
 
 ## Статистика Github
 
