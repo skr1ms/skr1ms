@@ -1,6 +1,6 @@
 <div align="center">
 
-# Илья Дубецкий (skr1ms)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&pause=1000&width=435&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@takuya13-blue?style=flat&logo=telegram)](https://t.me/takuya13)
 [![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
@@ -8,44 +8,6 @@
 [English Version](README.md)
 
 </div>
-
----
-
-## Ключевые проекты
-
-### [SkyPostDelivery](https://github.com/skr1ms/SkyPostDelivery)
-**Система доставки дронами с ROS** | 2 место на международном чемпионате Hi-Tech 2025
-
-- Микросервисная архитектура: Go (Gin) + Python (FastAPI)
-- WebSocket для real-time телеметрии дрона, gRPC для межсервисной коммуникации
-- RabbitMQ для управления очередью заказов
-- Автономный полёт по ArUco меткам через ROS топики
-
-**Стек:** Go, Python, ROS, WebSocket, gRPC, RabbitMQ, PostgreSQL, Redis
-
----
-
-### [Mosaic](https://github.com/skr1ms/Mosaic)
-**Backend для e-commerce с white label системой**
-
-- REST API и WebSocket сервер на Go (Fiber)
-- White label система для партнёров с автоматическим управлением доменами через GitLab API
-- Интеграция AlphaBank эквайринга и SMTP для автоматических уведомлений
-- CI/CD пайплайн с автоматической генерацией nginx конфигураций и SSL сертификатов
-
-**Стек:** Go, Fiber, PostgreSQL, Redis, MinIO, Docker, GitLab CI/CD, Nginx
-
----
-
-### [dev2gis](https://github.com/skr1ms/dev2gis)
-**Модуль обработки данных БПЛА для геоинформационных решений**
-
-- Обработка изображений, координат, Lidar/Sonar данных
-- Автогенерация топокарт высокой точности для областей до 1 км² менее чем за 10 секунд
-- RabbitMQ для распределения задач между воркерами
-- Интеграция OpenCV, ODM (OpenDroneMap) и GDAL
-
-**Стек:** Go, Python, OpenCV, ODM, GDAL, RabbitMQ, PostgreSQL, MinIO, Docker
 
 ---
 
