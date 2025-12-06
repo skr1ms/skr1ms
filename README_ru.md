@@ -1,13 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&pause=1000&width=600&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&pause=1000&width=1000&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@takuya13-blue?style=flat&logo=telegram)](https://t.me/takuya13)
 [![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
-
-<br/>
 
 [English Version](README.md)
 
