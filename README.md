@@ -1,55 +1,17 @@
 <div align="center">
 
-# Ilya Dubetskiy (skr1ms)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=500&size=24&pause=200&width=300&lines=Greetings%2C+I'm+Takuya)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@takuya13-blue?style=flat&logo=telegram)](https://t.me/takuya13)
 [![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
 
-[Russian Version](README_ru.md)
+[English Version](README.md)
 
 </div>
 
 ---
 
-## Key Projects
-
-### [SkyPostDelivery](https://github.com/skr1ms/SkyPostDelivery)
-**Drone delivery system with ROS integration** | 2nd place at Hi-Tech International Championship 2025
-
-- Microservices architecture: Go (Gin) + Python (FastAPI)
-- WebSocket for real-time drone telemetry, gRPC for inter-service communication
-- RabbitMQ for order queue management
-- Autonomous flight using ArUco markers via ROS topics
-
-**Stack:** Go, Python, ROS, WebSocket, gRPC, RabbitMQ, PostgreSQL, Redis
-
----
-
-### [Mosaic](https://github.com/skr1ms/Mosaic)
-**E-commerce backend with white label system**
-
-- REST API and WebSocket server on Go (Fiber)
-- White label system for partners with automated domain management via GitLab API
-- AlphaBank acquiring integration and SMTP for automated notifications
-- CI/CD pipeline with automatic nginx configuration generation and SSL certificates
-
-**Stack:** Go, Fiber, PostgreSQL, Redis, MinIO, Docker, GitLab CI/CD, Nginx
-
----
-
-### [dev2gis](https://github.com/skr1ms/dev2gis)
-**UAV data processing module for geoinformation solutions**
-
-- Processing of images, coordinates, Lidar/Sonar data
-- Automatic generation of high-precision topographic maps for areas up to 1 km² in less than 10 seconds
-- RabbitMQ for task distribution between workers
-- Integration with OpenCV, ODM (OpenDroneMap), and GDAL
-
-**Stack:** Go, Python, OpenCV, ODM, GDAL, RabbitMQ, PostgreSQL, MinIO, Docker
-
----
-
-## Technology Stack
+### Technology Stack
 
 <div align="center">
 
@@ -87,7 +49,7 @@
 
 ---
 
-## GitHub Statistics
+### GitHub Statistics
 
 ###
 
