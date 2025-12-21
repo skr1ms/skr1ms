@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@takuya13-blue?style=flat&logo=telegram)](https://t.me/takuya13)
 [![Email](https://img.shields.io/badge/Email-i.dubetskiy.w@gmail.com-red?style=flat&logo=gmail)](mailto:i.dubetskiy.w@gmail.com)
 
-[English Version](README.md)
-
 </div>
 
 ---
